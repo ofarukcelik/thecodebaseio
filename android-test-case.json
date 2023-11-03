@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "category": "Satılık Konut (Villa)",
+      "city": "İstanbul",
+      "label": "YENİ",
+      "district": "Üsküdar",
+      "neighborhood": "Beylerbeyi Mah.",
+      "curreny": "TL",
+      "roomCount": 6,
+      "bathCount": 3,
+      "price": "9.750.000",
+      "gross": 180,
+      "net": 160,
+      "room": "5+1",
+      "buildingAge": "Sıfır",
+      "description": "lorem ipsum",
+      "createdDate": "29.09.2023",
+      "images": [
+        "https://media.istockphoto.com/id/1255835530/tr/foto%C4%9Fraf/modern-%C3%B6zel-suburban-ev-d%C4%B1%C5%9F.jpg?s=612x612&w=0&k=20&c=gRJNLfFcxjYcU-BnJi-PEnondXDHmRIG7pROmWQTQ8I=",
+        "https://www.dominand.com/wp-content/uploads/2020/03/salon-tasar%C4%B1m-modelleri5-1400x788.jpg",
+        "https://www.prefabrikvillayapi.com/images/ic-mekanlar/konseptevmodeli750x442.jpg"
+      ]
+    },
+    {
+      "category": "Satılık Konut (Villa)",
+      "city": "İstanbul",
+      "label": "FIRSAT",
+      "district": "Sarıyer",
+      "neighborhood": "İstinye Mah.",
+      "curreny": "USD",
+      "price": "19.500.000",
+      "roomCount": 9,
+      "bathCount": 5,
+      "gross": 300,
+      "net": 260,
+      "room": "6+1",
+      "buildingAge": "Sıfır",
+      "description": "lorem ipsum",
+      "createdDate": "06.05.2023",
+      "images": [
+        "https://cmgyapi.com/wp-content/uploads/2022/01/Photo_1643449363074.jpg",
+        "https://www.nidaicmimarlik.com/wp-content/uploads/2020/10/k%C3%BC%C3%A7%C3%BCk-ev-dekorasyonu-2-1024x768.jpg",
+        "https://www.prefabrikvillayapi.com/images/ic-mekanlar/konseptevmodeli750x442.jpg"
+      ]
+    },
+    {
+      "category": "Kiralık Daire",
+      "city": "İstanbul",
+      "label": null,
+      "district": "Bahçelievler",
+      "neighborhood": "Cumhuriyet Mah.",
+      "curreny": "TL",
+      "roomCount": 3,
+      "price": "9500",
+      "bathCount": 1,
+      "gross": 100,
+      "net": 80,
+      "room": "2+1",
+      "buildingAge": "12",
+      "description": "lorem ipsum",
+      "createdDate": "06.08.2023",
+      "images": [
+        "https://i0.shbdn.com/photos/44/16/26/x5_1131441626vnh.jpg",
+        "https://www.nidaicmimarlik.com/wp-content/uploads/2020/10/k%C3%BC%C3%A7%C3%BCk-ev-dekorasyonu-2-1024x768.jpg",
+        "https://www.prefabrikvillayapi.com/images/ic-mekanlar/konseptevmodeli750x442.jpg"
+      ]
+    },
+    {
+      "category": "Satılık Konut (Daire)",
+      "city": "İstanbul",
+      "label": null,
+      "district": "Bağcılar",
+      "neighborhood": "Kirazlı Mah.",
+      "curreny": "TL",
+      "roomCount": 3,
+      "price": "2.500.000",
+      "bathCount": 1,
+      "gross": 120,
+      "net": 90,
+      "room": "2+1",
+      "buildingAge": "20",
+      "description": "lorem ipsum",
+      "createdDate": "06.05.2023",
+      "images": [
+        "https://i0.shbdn.com/photos/68/91/07/x5_1118689107sil.jpg",
+        "https://www.nidaicmimarlik.com/wp-content/uploads/2020/10/k%C3%BC%C3%A7%C3%BCk-ev-dekorasyonu-2-1024x768.jpg",
+        "https://www.prefabrikvillayapi.com/images/ic-mekanlar/konseptevmodeli750x442.jpg"
+      ]
+    }
+  ]
+}
