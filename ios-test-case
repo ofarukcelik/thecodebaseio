@@ -1,0 +1,140 @@
+{
+  "owner": {
+    "name": "John",
+    "surname": "Doe",
+    "registerDate": "10.10.2020",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/8/8f/James_Hetfield_live_in_Amesterdam_29_April_2023.jpg"
+  },
+  "cards": [
+    {
+      "type": "realEstate",
+      "data": {
+        "id": 1982321,
+        "title": "Beylikdüzü Muhteşem konumda Görülmeye Değer ev",
+        "address": {
+          "city": "İstanbul",
+          "district": "Beylikdüzü"
+        },
+        "price": 1500000,
+        "currency": "₺",
+        "badges": [
+          "Yeni",
+          "Krediye Uygun"
+        ],
+        "images": [
+          "https://media.istockphoto.com/id/1255835530/tr/foto%C4%9Fraf/modern-%C3%B6zel-suburban-ev-d%C4%B1%C5%9F.jpg?s=612x612&w=0&k=20&c=gRJNLfFcxjYcU-BnJi-PEnondXDHmRIG7pROmWQTQ8I=",
+          "https://www.dominand.com/wp-content/uploads/2020/03/salon-tasar%C4%B1m-modelleri5-1400x788.jpg",
+          "https://www.prefabrikvillayapi.com/images/ic-mekanlar/konseptevmodeli750x442.jpg"
+        ]
+      }
+    },
+    {
+      "type": "favoriteSeller",
+      "data": {
+        "id": 1982321,
+        "name": "Jane",
+        "surname": "Doe",
+        "registerDate": "12.01.2023",
+        "profileImage": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTamNMVWDuEyfNgwCwyDmGNfQIrf3cVQunHqrxBkNbK34Xw8sAf"
+      }
+    },
+    {
+      "type": "realEstate",
+      "data": {
+        "id": 1982322,
+        "title": "Sarıyer merkezde sahibinden Villa",
+        "address": {
+          "city": "İstanbul",
+          "district": "Sarıyer"
+        },
+        "price": 25000000,
+        "currency": "₺",
+        "badges": [
+          "Müstakil",
+          "Krediye Uygun"
+        ],
+        "images": [
+          "https://cmgyapi.com/wp-content/uploads/2022/01/Photo_1643449363074.jpg",
+          "https://www.nidaicmimarlik.com/wp-content/uploads/2020/10/k%C3%BC%C3%A7%C3%BCk-ev-dekorasyonu-2-1024x768.jpg",
+          "https://www.prefabrikvillayapi.com/images/ic-mekanlar/konseptevmodeli750x442.jpg"
+        ]
+      }
+    },
+    {
+      "type": "clothing",
+      "data": {
+        "id": 1982321,
+        "title": "Nike Sport Sarı Kombinim Hiç bir defosu yok tekliflere açığım",
+        "price": 1500,
+        "currency": "",
+        "badges": [
+          "Yeni",
+          "Etiketli"
+        ],
+        "images": [
+          "https://akn-barcin.a-cdn.akinoncloud.com/products/2023/07/28/1124940/5083d9be-aec0-488d-b6b8-96f2d8d91124_size900x900_cropCenter.jpg",
+          "https://akn-barcin.a-cdn.akinoncloud.com/products/2023/07/28/1124940/922c32f3-3bdd-413b-96f4-b5084445f447_size900x900_cropCenter.jpg"
+        ]
+      }
+    },
+    {
+      "type": "realEstate",
+      "data": {
+        "id": 1982323,
+        "title": "Bu fırsat kaçmaz!",
+        "address": {
+          "city": "İstanbul",
+          "district": "Bahçelievler"
+        },
+        "price": 2000000,
+        "currency": "₺",
+        "images": [
+          "https://www.guncelprojebilgileri.com/img/r/370x240/2022/09/06092022132723-1662460043.jpg",
+          "https://cdn02.hemlak.com/mncropresize/345/258/TmJBK3pKcVNkWExlTjZnNnB6Wk9FalJCRUlhZURSK0dmRS83NUFjSjg2TGYzRDdyMGtBdTJGTlM0eWdGZDJSWA==.jpg"
+        ]
+      }
+    },
+    {
+      "type": "clothing",
+      "data": {
+        "id": 1982321,
+        "title": "Az kullanılmış ekoseli takım elbise",
+        "price": 2250,
+        "currency": "",
+        "images": [
+          "https://www.wessi.com/ekose-ceketli-slim-fit-gri-erkek-takim-elbise-4-kombinli-takim-elbise-wessi-460539-22-B.jpg",
+          "https://www.wessi.com/ekose-ceketli-slim-fit-gri-erkek-takim-elbise-4-kombinli-takim-elbise-wessi-460535-22-B.jpg",
+          "https://www.wessi.com/ekose-ceketli-slim-fit-gri-erkek-takim-elbise-4-kombinli-takim-elbise-wessi-460534-22-B.jpg"
+        ]
+      }
+    },
+    {
+      "type": "realEstate",
+      "data": {
+        "id": 1982324,
+        "title": "Metroya beş dakika",
+        "address": {
+          "city": "İstanbul",
+          "district": "Bağcılar"
+        },
+        "price": 12990000,
+        "currency": "₺",
+        "images": [
+          "https://i0.shbdn.com/photos/44/16/26/x5_1131441626vnh.jpg",
+          "https://www.nidaicmimarlik.com/wp-content/uploads/2020/10/k%C3%BC%C3%A7%C3%BCk-ev-dekorasyonu-2-1024x768.jpg",
+          "https://www.prefabrikvillayapi.com/images/ic-mekanlar/konseptevmodeli750x442.jpg"
+        ]
+      }
+    },
+    {
+      "type": "favoriteSeller",
+      "data": {
+        "id": 1982322,
+        "name": "Sevgi",
+        "surname": "Ölmez",
+        "registerDate": "12.01.2023",
+        "profileImage": "https://upload.wikimedia.org/wikipedia/commons/2/24/Satriani_2010_13_12_1112.jpg"
+      }
+    }
+  ]
+}
